@@ -1,0 +1,21 @@
+.nav {
+    background-color: darkgrey;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap; 
+    align-items: center;
+    justify-content: space-between; 
+    padding: 10px
+    
+
+}
+
+  .navbar-nav {
+    display: flex;
+  }
+
+  .navbar-style{
+    background-color: rgb(207, 143, 25) !important;
+  }
+
+  
